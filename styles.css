@@ -176,7 +176,7 @@ html, body {
       rgba(0,0,0,0.45),
       rgba(0,0,0,0.70)
     ),
-    url("../image/herobarber.jpg") center / cover no-repeat;
+    url("image/herobarber.jpg") center / cover no-repeat;
 
   display: flex;
   align-items: center;
@@ -628,4 +628,5 @@ html, body {
     height: 24px;
   }
 }
+
 
